@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(204, 255, 255);
+    font-family: 'Opens Sans';
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    border: 15px solid rgb(131, 111, 255);
+    font-size: 38px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-left:0;
+    padding-right: 0;
+    background: rgb(75, 241, 200);
+}
+
+h1{
+    color: rgb(245, 245, 245);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(131,111,255);
+
+}
